@@ -1,4 +1,5 @@
 ##Step-by-step instructions to run
+
 This application is written in java and uses spring boot libraries. This requires minimum java 8 to run.
 
 After downloading the repo, application can be run in either of below 2 ways
